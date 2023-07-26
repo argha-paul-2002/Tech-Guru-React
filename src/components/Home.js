@@ -12,7 +12,7 @@ const Home = () => {
     <>
         <div className='home' id='home'>
         <main>
-            <h1>TechyStar</h1>
+            <h1>Tech-<span className='name-color'>Guru</span></h1>
             <p>Solution to all your problems</p>
         </main>
         </div>
@@ -31,7 +31,7 @@ const Home = () => {
           <div>
             <h1>Who we are?</h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, dolorum. Repellat nostrum, dolore tempora exercitationem quisquam dolorum necessitatibus error ducimus ex fugit laboriosam rem totam laudantium tempore distinctio quod eum suscipit a non culpa, minima provident vero? Alias culpa expedita atque! Dolore, vel. Possimus incidunt qui alias ut tempore perferendis.
+            Tech-Guru is a platform created by tech enthusiasts, for tech enthusiasts. Our team of passionate tech experts curates and creates content that covers a wide range of topics, from the latest tech trends and product reviews to in-depth tech guides and tutorials. We understand the thrill of exploring new technologies, and we're dedicated to sharing that excitement with you.
             </p>
           </div>
         </div>

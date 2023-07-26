@@ -2,7 +2,7 @@
 
 nav{
     width: 100%;
-    padding: 1rem;
+    padding: 10px 20px 10px 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -13,6 +13,10 @@ nav{
 
 > h1{
     text-transform: uppercase;
+    .name-style{
+        border-radius: 0px 50px 0px 50px;
+        background-color: rgb(252, 204, 47);
+      }
 }
 
 >main{

@@ -20,6 +20,11 @@
     h1 {
       font: 400 6rem $text1;
       color: $first;
+      .name-color{
+        color: $dark;
+        border-radius: 0px 0px 0px 90px;
+        background-color: rgb(252, 204, 47);
+      }
     }
     p {
       font: 900 1rem $text1;
@@ -32,8 +37,8 @@
     width: 100%;
     height: 100%;
     position: absolute;
-    background: no-repeat center/auto url("../assets/1.png");
-    filter: blur(3px);
+    background: no-repeat center/auto url("../assets/1.jpg");
+    // filter: blur(3px);
     border-radius: 0 0 200px 200px;
   }
 }
