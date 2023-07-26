@@ -10,7 +10,6 @@ Tech-guru is a cutting-edge, responsive front-end template built with React, des
 - **Smooth Animations:** Delivers a polished look and feel with smooth animations and transitions.
 - **Cross-Browser Compatibility:** Compatible with all major web browsers for maximum reach.
 - **State Management:** Utilizes Redux or Context API for efficient state management.
-- **Theming Support:** Empowers users to switch themes effortlessly to suit their preferences.
 - **SEO-Friendly:** Optimized for search engines to improve discoverability and ranking.
 
 Whether you're a seasoned developer or just getting started, Tech-guru simplifies the development process and enables you to create stunning web applications that are both functional and visually captivating.
